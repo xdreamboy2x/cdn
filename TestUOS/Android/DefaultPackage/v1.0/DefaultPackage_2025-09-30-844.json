@@ -8,8 +8,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-09-30-835",
-    "PackageNote": "2025/9/30 13:56:45",
+    "PackageVersion": "2025-09-30-844",
+    "PackageNote": "2025/9/30 14:05:18",
     "AssetList": [
         {
             "Address": "music_background",
@@ -721,10 +721,10 @@
         },
         {
             "BundleName": "assets_samples_yooasset_2_3_16_space_shooter_gameres_uipanel_uihome.bundle",
-            "UnityCRC": 3048981359,
-            "FileHash": "7bd7329267587a0fb820913277f3c800",
+            "UnityCRC": 2509155961,
+            "FileHash": "f98183a612a3b6f10d7156f917191c07",
             "FileCRC": 0,
-            "FileSize": 11728,
+            "FileSize": 11707,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [

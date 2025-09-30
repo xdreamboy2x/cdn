@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "",
         "UnityVersion": "2022.3.53f1c1",
-        "BuildDate": "2025/9/30 13:56:47",
-        "BuildSeconds": 1,
+        "BuildDate": "2025/9/30 14:05:20",
+        "BuildSeconds": 2,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2025-09-30-835",
-        "BuildPackageNote": "2025/9/30 13:56:45",
+        "BuildPackageVersion": "2025-09-30-844",
+        "BuildPackageNote": "2025/9/30 14:05:18",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -36,7 +36,7 @@
         "AssetFileTotalCount": 95,
         "MainAssetTotalCount": 25,
         "AllBundleTotalCount": 43,
-        "AllBundleTotalSize": 6699098,
+        "AllBundleTotalSize": 6699077,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -700,7 +700,7 @@
             "AssetGUID": "f33f75c4ce22cf248abf851242ac4363",
             "AssetTags": [],
             "MainBundleName": "assets_samples_yooasset_2_3_16_space_shooter_gameres_uipanel_uihome.bundle",
-            "MainBundleSize": 11728,
+            "MainBundleSize": 11707,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/Samples/YooAsset/2.3.16/Space Shooter/GameRes/UIFont/RobotoCondensed-Bold.ttf",
@@ -1689,10 +1689,10 @@
         },
         {
             "BundleName": "assets_samples_yooasset_2_3_16_space_shooter_gameres_uipanel_uihome.bundle",
-            "FileName": "assets_samples_yooasset_2_3_16_space_shooter_gameres_uipanel_uihome_7bd7329267587a0fb820913277f3c800.bundle",
-            "FileHash": "7bd7329267587a0fb820913277f3c800",
+            "FileName": "assets_samples_yooasset_2_3_16_space_shooter_gameres_uipanel_uihome_f98183a612a3b6f10d7156f917191c07.bundle",
+            "FileHash": "f98183a612a3b6f10d7156f917191c07",
             "FileCRC": 0,
-            "FileSize": 11728,
+            "FileSize": 11707,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
